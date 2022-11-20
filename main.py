@@ -1,6 +1,5 @@
 import math, random
 import RSA
-import El_gamal as GA
 
 def leer():
     archivo=open('mensajerecibido.txt.','r')
